@@ -7,15 +7,8 @@ The converged log-likelihood value for 9 clusters is 140623.3978
 
 ## Log-likelihood for each iteration are as follows
 
-
+![Alt text](file:///Users/rohan/Desktop/Screenshots/Screen%20Shot%202018-04-03%20at%2011.10.20%20PM.png)
  
-
-
-
-
-
-
-
 ## Summary of the Project
 The main objective of this project was to build an Expectation Maximization Algorithm manually using R.  
 The process to build the Expectation Maximization algorithm involved the following steps:
@@ -47,7 +40,3 @@ In our case convergence would be reached if log_likelihood is lower than the thr
 2.	Expectation Step
 3.	Maximization Step
 4.	Check for Convergence
-
-
- 
-
