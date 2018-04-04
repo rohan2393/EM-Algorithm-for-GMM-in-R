@@ -7,7 +7,7 @@ The converged log-likelihood value for 9 clusters is 140623.3978
 
 ## Log-likelihood for each iteration are as follows
 
-![Alt text](file:///Users/rohan/Desktop/Screenshots/Screen%20Shot%202018-04-03%20at%2011.10.20%20PM.png)
+![Alt text](https://github.com/rohan2393/EM-Algorithm-for-GMM-in-R/blob/master/Log-likelihood_Chart.png)
  
 ## Summary of the Project
 The main objective of this project was to build an Expectation Maximization Algorithm manually using R.  
